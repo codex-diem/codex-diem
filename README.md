@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** — Frontend & Platform · Bengaluru, India 
 
-I build production-grade frontend systems, design systems, and agentic AI workflows. Currently leading platform engineering at **[Lyric.ai](https://lyric.ai)** — a supply chain SaaS company — where I own the low-code/no-code application builder and our agentic AI initiative.
+I build production-grade frontend systems, design systems, and agentic AI workflows. Engineering & Design at **[Lyric.ai](https://lyric.ai)** — a supply chain SaaS company.
 
 ---
 
@@ -15,7 +15,6 @@ const vismay = {
   stack:      ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "Python"],
   tooling:    ["TurboRepo", "Docker", "GitHub Actions", "AWS", "Grafana"],
   testing:    ["Jest", "Playwright", "Cypress"],
-  looking:    "Senior Frontend / Staff Engineer roles in Europe 🇪🇺",
 };
 ```
 
@@ -23,11 +22,10 @@ const vismay = {
 
 ## Things I've shipped
 
-- 🧩 **Design System** — 200+ reusable UI components in a TurboRepo monorepo, adopted across 3 product teams at Lyric
+- 🧩 **Design System** — 200+ reusable UI components in a TurboRepo monorepo, adopted across multiple products at Lyric
 - 🤖 **Agentic AI** — Leading the frontend layer for intelligent workflow automation; AI agents that orchestrate multi-step data pipelines autonomously
 - 🔍 **Smart Search** — Vector-powered ⌘K command palette backed by pgvector + semantic re-ranking, reducing time-to-first-action from 4 min → 90 sec
-- 📦 **API Gateway** — `@lyric/api-gateway` npm package; typed HTTP clients, composable interceptors, shared across 4 apps
-- 🏗️ **Low-code Builder** — Drag-and-drop SQL query creation, customisable charts (Plotly Dash), AG Grid data grids, embedded Metabase analytics
+- 🏗️ **Low-code Builder** — Drag-and-drop SQL query creation, visualizations, data pipelines etc.
 - 💳 **Fintech Platform** — Consumer-facing app at Jodo serving 50K+ MAU; integrated 10+ payment gateways and 1,000+ ERPs
 - 🌐 **PWA @ Upwards** — Personal loan portal scaling to 200K+ monthly visitors; SEO from page 5 → page 1
 
