@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** — Frontend & Platform · Bengaluru, India 
 
-I build production-grade frontend systems, design systems, and agentic AI workflows. Engineering & Design at **[Lyric.ai](https://lyric.ai)** — a supply chain SaaS company.
+I build production-grade frontend systems, design systems, and agentic AI workflows. Engineering & Design at **[Lyric.ai](https://lyric.ai)** — a supply chain enterprise AI platform.
 
 ---
 
