@@ -1,0 +1,82 @@
+# Hey, I'm Vismay 👋
+
+**Senior Software Engineer** — Frontend & Platform · Bengaluru, India → Europe
+
+I build production-grade frontend systems, design systems, and agentic AI workflows. Currently leading platform engineering at **[Lyric.ai](https://lyric.ai)** — a supply chain SaaS company — where I own the low-code/no-code application builder and our agentic AI initiative.
+
+---
+
+## What I work on
+
+```typescript
+const vismay = {
+  current:    "Senior SWE @ Lyric.ai",
+  focus:      ["Agentic AI workflows", "Design Systems", "Platform Engineering"],
+  stack:      ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "Python"],
+  tooling:    ["TurboRepo", "Docker", "GitHub Actions", "AWS", "Grafana"],
+  testing:    ["Jest", "Playwright", "Cypress"],
+  looking:    "Senior Frontend / Staff Engineer roles in Europe 🇪🇺",
+};
+```
+
+---
+
+## Things I've shipped
+
+- 🧩 **Design System** — 200+ reusable UI components in a TurboRepo monorepo, adopted across 3 product teams at Lyric
+- 🤖 **Agentic AI** — Leading the frontend layer for intelligent workflow automation; AI agents that orchestrate multi-step data pipelines autonomously
+- 🔍 **Smart Search** — Vector-powered ⌘K command palette backed by pgvector + semantic re-ranking, reducing time-to-first-action from 4 min → 90 sec
+- 📦 **API Gateway** — `@lyric/api-gateway` npm package; typed HTTP clients, composable interceptors, shared across 4 apps
+- 🏗️ **Low-code Builder** — Drag-and-drop SQL query creation, customisable charts (Plotly Dash), AG Grid data grids, embedded Metabase analytics
+- 💳 **Fintech Platform** — Consumer-facing app at Jodo serving 50K+ MAU; integrated 10+ payment gateways and 1,000+ ERPs
+- 🌐 **PWA @ Upwards** — Personal loan portal scaling to 200K+ monthly visitors; SEO from page 5 → page 1
+
+---
+
+## By the numbers
+
+| Metric | Impact |
+|---|---|
+| Component library | 200+ components · 3 teams |
+| Page load improvement | 40% via SSR + code splitting |
+| Daily transactions | 100K+ through Node.js middleware |
+| Bug reduction | 25% via Jest + Playwright |
+| Release cycle | Weekly → Daily (zero-downtime) |
+| Team scaling | 4 → 10 engineers (Jodo FinTech) |
+
+---
+
+## Stack I reach for
+
+**Frontend** · React · Next.js · TypeScript · Tailwind · Mantine · Redux · React Query
+
+**Backend** · Node.js · NestJS · Python · GraphQL · REST · WebSockets
+
+**Data & Viz** · AG Grid · Plotly Dash · ECharts · D3.js · Metabase · pgvector
+
+**Infra** · Docker · Kubernetes · GitHub Actions · AWS · GCP · Kafka · Terraform
+
+**Testing** · Jest · Playwright · Cypress · TDD/BDD
+
+---
+
+## Writing & Thinking
+
+I care about:
+- Frontend systems that scale without becoming unmaintainable
+- Design systems as product infrastructure, not just a component library
+- Making AI behaviour legible, trustworthy, and interruptible in production UIs
+- The gap between "it works" and "it's right"
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vismayluhadiya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vismay.luhadiya@gmail.com)
+
+> *Currently open to Senior Frontend / Staff Engineer roles in Europe (Berlin, Amsterdam, Dublin, Barcelona). EU Blue Card eligible.*
+
+---
+
+<sub>codex-diem · carpe codem · seize the code</sub>
