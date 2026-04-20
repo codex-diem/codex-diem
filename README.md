@@ -1,6 +1,6 @@
 # Hey, I'm Vismay 👋
 
-**Senior Software Engineer** — Frontend & Platform · Bengaluru, India → Europe
+**Senior Software Engineer** — Frontend & Platform · Bengaluru, India 
 
 I build production-grade frontend systems, design systems, and agentic AI workflows. Currently leading platform engineering at **[Lyric.ai](https://lyric.ai)** — a supply chain SaaS company — where I own the low-code/no-code application builder and our agentic AI initiative.
 
