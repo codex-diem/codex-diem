@@ -1,19 +1,23 @@
 # Hey, I'm Vismay 👋
 
-**Senior Software Engineer** — Frontend & Platform · Bengaluru, India
+**Senior Software Engineer** — Full-Stack · Frontend & Platform · Bengaluru, India
 
-8+ years building production-grade frontend systems, design systems, and interfaces for agentic AI products.
+8+ years as a full-stack engineer building production-grade frontend systems, design systems, APIs, and interfaces for agentic AI products.
 
 ---
 
 ## What I work on
 
-```js
+```ts
 const vismay = {
-  focus:   ["Design Systems", "Agentic AI interfaces", "Platform Engineering"],
-  stack:   ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "Python"],
-  tooling: ["TurboRepo", "Docker", "GitHub Actions", "AWS", "Grafana"],
-  testing: ["Jest", "Playwright", "Cypress"],
+  focus:     ["Full-Stack Development", "Design Systems", "Agentic AI interfaces", "Platform Engineering"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart", "SQL", "Bash"],
+  frontend:  ["React", "Next.js", "React Native", "Flutter", "Tailwind", "Redux", "React Query", "Vite"],
+  backend:   ["Node.js", "NestJS", "Express", "FastAPI", "GraphQL", "REST", "gRPC", "WebSockets", "Redis", "Prisma"],
+  ai:        ["LLM-powered UIs", "MCP", "RAG / pgvector", "prompt engineering"],
+  data:      ["PostgreSQL", "Kafka", "D3.js", "ECharts", "AG Grid"],
+  infra:     ["TurboRepo", "Docker", "Kubernetes", "GitHub Actions", "AWS", "GCP", "Terraform", "Grafana"],
+  testing:   ["Jest", "Playwright", "Cypress"],
 };
 ```
 
@@ -53,9 +57,9 @@ const vismay = {
 
 ## Stack I reach for
 
-**Frontend** · React · Next.js · TypeScript · Tailwind · Mantine · Redux · React Query
+**Frontend** · React · Next.js · React Native · Flutter · TypeScript · Tailwind · Mantine · Redux · React Query
 
-**Backend** · Node.js · NestJS · Python · GraphQL · REST · WebSockets
+**Backend** · Node.js · NestJS · Express · FastAPI · Python · GraphQL · REST · gRPC · WebSockets · Redis · Prisma
 
 **Data & Viz** · AG Grid · Plotly Dash · ECharts · D3.js · Metabase · pgvector
 
