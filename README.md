@@ -18,6 +18,7 @@ I like to learn and hack around with new technologies. Started out obsessed with
 - Founding engineer at Jodo (fintech) — consumer app serving 50K+ MAU, integrated 10+ payment gateways and 1,000+ ERPs, grew the team from 4 to 25
 - Founding engineer at Upwards (lending) — built the loan portal PWA, scaled it to 200K monthly visitors, dragged its SEO from page 5 to page 1
 - Mechanical engineer on paper (LNMIIT). Taught myself to code and never looked back
+- Did some cool internships with low acceptance rates
 
 ---
 
