@@ -26,9 +26,10 @@ I like to learn and hack around with new technologies. Started out obsessed with
 
 I care about:
 
-- Frontend systems that scale without becoming unmaintainable
-- Design systems as product infrastructure, not just a component library
-- Making AI behaviour legible, trustworthy, and interruptible in production UIs
+- Software that scales without becoming unmaintainable — frontend, backend, or the glue in between
+- Design systems and internal platforms as product infrastructure, not side quests
+- Abstractions that don't leak and code that reads like it was written on purpose
+- Making AI behaviour legible, trustworthy, and interruptible in production
 - The gap between "it works" and "it's right"
 
 ---
