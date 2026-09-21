@@ -36,7 +36,7 @@ I care about:
 
 ### Off the keyboard
 
-Psychology, chemistry, physics and math geek — I'll read anything that explains how things (or people) work. The rest of my time goes to books, swimming, football, anime, and hunting down good food and music.
+Psychology, chemistry, physics and math geek — I'll read anything that explains how things (or people) work. The rest of my time goes to swimming, football, anime, and hunting down good food and music.
 
 ---
 
