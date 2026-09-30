@@ -1,6 +1,10 @@
 # Hey, I'm Vismay
 
-I like to learn and hack around with new technologies. Started out obsessed with frontend — design systems, theming, making UIs feel right — and slowly drifted into building products that work — and are right. This profile is just a place to hang the software I work on.
+Designed in college. Started coding to build what I drew.
+First startup as a founding engineer: frontend, backend, devops, whatever kept the lights on.
+Second one: built the team while still shipping.
+Now at Lyric.ai, where the question is less "how do we build it" and more "what's worth building."
+This profile is just a place to hang the software I work on.
 
 **Elsewhere** — [LinkedIn](https://linkedin.com/in/vismayluhadiya) · [Email](mailto:vismay.luhadiya@gmail.com)
 
