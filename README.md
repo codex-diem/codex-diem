@@ -1,9 +1,9 @@
 # Hey, I'm Vismay
 
-Designed in college. Started coding to build what I drew.
-First startup as a founding engineer: frontend, backend, devops, whatever kept the lights on.
-Second one: built the team while still shipping.
-Now at Lyric.ai, where the question is less "how do we build it" and more "what's worth building."
+Designed in college. Started coding to build what I drew. <br>
+First startup as a founding engineer: frontend, backend, devops, whatever kept the lights on. <br>
+Second one: built the team while still shipping. <br>
+Now at Lyric.ai, where the question is less "how do we build it" and more "what's worth building." <br>
 This profile is just a place to hang the software I work on.
 
 **Elsewhere** — [LinkedIn](https://linkedin.com/in/vismayluhadiya) · [Email](mailto:vismay.luhadiya@gmail.com)
